@@ -8,6 +8,8 @@ To run the app use `./gradlew bootRun`
 
 The application will run in port `8080`
 
+To access application use the endpoint `http://localhost:8080`
+
 ## Tests
 
 To run tests use `./gradlew test`
